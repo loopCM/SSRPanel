@@ -80,10 +80,6 @@ telegram订阅频道：https://t.me/ssrpanel
 ````
 官网搭建于Azure，由代理商 [@LesHutt](https://t.me/LesHutt) 提供，需要流量机器，价格优惠需要的联系他。
 
-## 捐赠
-**以太坊钱包** : 0x968f797f194fcec05ea571723199748b58de38ba
-
-![支持作者](https://github.com/ssrpanel/ssrpanel/blob/master/public/assets/images/donate.jpg?raw=true)
 
 [VPS推荐&购买经验](https://github.com/ssrpanel/SSRPanel/wiki/VPS%E6%8E%A8%E8%8D%90&%E8%B4%AD%E4%B9%B0%E7%BB%8F%E9%AA%8C)
 
@@ -101,7 +97,7 @@ PHP必须开启zip、xml、curl、gd2、fileinfo、openssl、mbstring组件
 #### 拉取代码
 ````
 cd /home/wwwroot/
-git clone https://github.com/ssrpanel/ssrpanel.git
+git clone https://github.com/ssrpanel/ssrpanel.git  这个要换成自己的了
 ````
 
 #### 配置数据库
@@ -122,7 +118,7 @@ chown -R www:www storage/
 chmod -R 755 storage/
 ````
 
-#### 加入NGINX的URL重写规则
+#### 加入NGINX的URL重写规则，其实就是设置网站伪静态
 ````
 location / {
     try_files $uri $uri/ /index.php$is_args$args;

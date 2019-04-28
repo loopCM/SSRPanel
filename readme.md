@@ -266,7 +266,7 @@ vi user-config.json
 "password": "m",
 "method": "aes-256-cfb",  // 这项要与前端面板ssrpaenl保持一致
 "protocol": "auth_aes128_md5",  // 这项要与前端面板ssrpaenl保持一致
-"protocol_param": "",  // 这项要与前端面板ssrpaenl保持一致，限制客户端同时连接的数量
+"protocol_param": "5#",  // 这项要与前端面板ssrpaenl保持一致，限制客户端同时连接数量,5#表示只允许5个设备同时连接
 "obfs": "tls1.2_ticket_auth",  // 这项要与前端面板ssrpaenl保持一致
 "obfs_param": "www.amazon.com,kdp.amazon.com, php.net",  // 建议与前端面板ssrpaenl保持一致，好像客户端可自定义不同的混淆域名
 "speed_limit_per_con": 0,

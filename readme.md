@@ -190,7 +190,7 @@ chown www:www ssserver.log
 将 .env 文件里的 REDIRECT_HTTPS 值改为true，则全站强制走https
 ```
 
-## SSR(R)后端部署教程①，如果不成功可以换其它教程
+## SSR(R)后端部署教程参考①
 #### 手动部署
 
 - 无上报IP版本：
@@ -208,8 +208,8 @@ NODE_ID就是节点ID，前端SSRpanel面板里添加节点时会出现ID，
 ```
 https://github.com/ssrpanel/shadowsocksr
 ```
-- SSRpanel后端配置   [参考这里](#修改SSR后端配置（数据库配置和SSRpanel前端面板连接信息）)
-## SSR(R)后端部署教程②，如果不成功可以换其它教程
+- SSRpanel后端配置   [参考这里](#####修改SSR后端配置（数据库配置和SSRpanel前端面板连接信息）)
+## SSR(R)后端部署教程参考②
 #### 手动部署
 - 安装必要环境
 ````
@@ -234,7 +234,7 @@ cd shadowsocksr
 sh setup_cymysql2.sh
 sh initcfg.sh
 ````
-##### 修改SSR后端配置（数据库配置和SSRpanel前端面板连接信息）
+#####修改SSR后端配置（数据库配置和SSRpanel前端面板连接信息）
  - 编辑数据库信息usermysql.json,修改成自己的真实数据库连接信息
  ````
 {

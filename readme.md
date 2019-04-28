@@ -199,7 +199,9 @@ wget https://github.com/ssrpanel/shadowsocksr/archive/V3.2.2.tar.gz
 tar zxvf V3.2.2.tar.gz
 cd shadowsocksr
 sh ./setup_cymysql2.sh
-配置 usermysql.json 里的数据库链接，NODE_ID就是节点ID，对应面板后台里添加的节点的自增ID，所以请先把面板搭好，搭好后进后台添加节点
+配置 usermysql.json 里的数据库链接，
+NODE_ID就是节点ID，前端SSRpanel面板里添加节点时会出现ID，
+所以请先把前端面板搭好，搭好后进后台添加节点，自动就出现节点ID
 ````
 
 - 会上报在线IP版本：
@@ -251,6 +253,7 @@ sh initcfg.sh
 - 修改SSRpanel前端面板连接信息,编辑文件user-config.json
 ````
 vi user-config.json
+
 "password": "m",
 "method": "aes-256-cfb",  // 这项要与前端面板ssrpaenl保持一致
 "protocol": "auth_aes128_md5",  // 这项要与前端面板ssrpaenl保持一致

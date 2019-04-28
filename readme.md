@@ -135,6 +135,7 @@ crontab加入如下命令（请自行修改php、ssrpanel路径）：
 注意运行权限，必须跟ssrpanel项目权限一致，否则出现各种莫名其妙的错误
 例如用lnmp的话默认权限用户组是 www:www，则添加定时任务是这样的：
 crontab -e -u www
+另外要在home目录下要创建一个www文件夹，并授予权限 chmod -R 777 www； 否则www用户的定时身份可能无法运行
 ````
 
 ## 邮件配置

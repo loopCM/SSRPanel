@@ -75,15 +75,15 @@ chmod -R a+x ssrpanel
 
 #### 配置数据库
 ````
-1.创建一个utf8mb4的数据库
-2.编辑 .env 文件，修改 DB_ 开头的值
-3.导入 sql/db.sql 到数据库
+1. 创建一个utf8mb4的数据库，建议名称为ssrpanel
+3. 导入 sql/db.sql 数据库至ssrpanel
+4. cd ssrpanel/
+5. cp .env.example .env （复制.env.example模板文件，然后 vim .env 修改数据库的连接信息）
 ````
 
 #### 安装面板
 ````
 cd ssrpanel/
-cp .env.example .env （然后 vi .env 修改数据库的连接信息）
 php composer.phar install
 php artisan key:generate
 chown -R www:www storage/

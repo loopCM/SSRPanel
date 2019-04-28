@@ -256,9 +256,10 @@ vi user-config.json
 "protocol": "auth_aes128_md5",  // 这项要与前端面板ssrpaenl保持一致
 "protocol_param": "",  // 这项要与前端面板ssrpaenl保持一致，限制客户端同时连接的数量
 "obfs": "tls1.2_ticket_auth",  // 这项要与前端面板ssrpaenl保持一致
-"obfs_param": "www.amazon.com,kdp.amazon.com, php.net",  // 建议这项要与前端面板ssrpaenl保持一致，好像客户端可以自己设置不同的混淆域名
+"obfs_param": "www.amazon.com,kdp.amazon.com, php.net",  // 建议与前端面板ssrpaenl保持一致，好像客户端可自定义不同的混淆域名
 "speed_limit_per_con": 0,
 "speed_limit_per_user": 0,
+其它保持不变，也可根据情况做修改，不知道干什么的，不要乱改
 
 ````
 user-config设置信息需要跟 SSRPanel 添加的相应节点设置保持一致。

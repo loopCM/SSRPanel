@@ -279,6 +279,19 @@ method = 加密方式；protocol = 加密协议；obfs = 混淆协议。
 password = 连接密码，保持默认m密码即可，这个不需要修改。
 在不了解的情况下请勿改动，保持默认即可
 
+一切准备就绪，你就可以使用客户端测试节点了。
+如果运行后无法使用，请自行检查 usermysql.json 与 user-config.json 两个配置文件。
+
+```
+后端节点测试运行：
+cd /root/shadowsocksr
+python server.py 
+
+如果正常的话，改为后台运行：
+cd /root/shadowsocksr
+./run.sh
+
+
 ## 单端口多用户
 ````
 编辑节点的 user-config.json 文件：

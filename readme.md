@@ -68,7 +68,9 @@ PHP必须开启zip、xml、curl、gd2、fileinfo、openssl、mbstring组件
 #### 拉取代码
 ````
 cd /home/wwwroot/
-git clone https://github.com/ssrpanel/ssrpanel.git  这个要换成自己的了
+git clone https://github.com/ssrpanel/ssrpanel.git  如果这个地址不能用，可以换成自己github仓库备份的地址
+chown -R www:www ssrpanel
+chmod -R a+x ssrpanel
 ````
 
 #### 配置数据库

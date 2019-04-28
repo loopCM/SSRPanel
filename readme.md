@@ -75,7 +75,7 @@ chmod -R a+x ssrpanel
 
 #### 配置数据库
 ````
-1. 创建一个utf8mb4的数据库，建议名称为ssrpanel
+1. 创建一个utf8mb4的数据库，建议名称为ssrpanel,方便记忆管理
 3. 导入 sql/db.sql 数据库至ssrpanel
 4. cd ssrpanel/
 5. cp .env.example .env （复制.env.example模板文件，然后 vim .env 修改数据库的连接信息）

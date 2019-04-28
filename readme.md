@@ -211,7 +211,7 @@ https://github.com/ssrpanel/shadowsocksr
 - 安装必要环境
 ````
 yum -y update
-yum install -y gcc -y
+yum install -y gcc
 yum install -y wget
 #以上命令如果报错，可能是因为当前系统已安装。无需理会，继续下一步。
 ````

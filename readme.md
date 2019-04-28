@@ -231,7 +231,7 @@ cd shadowsocksr
 sh setup_cymysql2.sh
 sh initcfg.sh
 ````
-##### 修改SSR后端配置（数据库配置和SSR客户端连接信息）
+##### 修改SSR后端配置（数据库配置和SSRpanel前端面板连接信息）
  - 编辑数据库信息usermysql.json,修改成自己的真实数据库连接信息
  ````
 {
@@ -248,15 +248,15 @@ sh initcfg.sh
 "ssl_key": ""
 }
  ````
-- 修改SSR前端面板连接信息,编辑文件user-config.json
+- 修改SSRpanel前端面板连接信息,编辑文件user-config.json
 ````
 vi user-config.json
 "password": "m",
-"method": "aes-256-cfb",
-"protocol": "auth_aes128_md5",
-"protocol_param": "",
-"obfs": "tls1.2_ticket_auth",
-"obfs_param": "www.amazon.com,kdp.amazon.com, php.net",
+"method": "aes-256-cfb",  // 这项要与前端面板ssrpaenl保持一致
+"protocol": "auth_aes128_md5",  // 这项要与前端面板ssrpaenl保持一致
+"protocol_param": "",  // 这项要与前端面板ssrpaenl保持一致，限制客户端同时连接的数量
+"obfs": "tls1.2_ticket_auth",  // 这项要与前端面板ssrpaenl保持一致
+"obfs_param": "www.amazon.com,kdp.amazon.com, php.net",  // 建议这项要与前端面板ssrpaenl保持一致，好像客户端可以自己设置不同的混淆域名
 "speed_limit_per_con": 0,
 "speed_limit_per_user": 0,
 

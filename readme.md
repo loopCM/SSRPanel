@@ -215,7 +215,7 @@ yum install -y gcc -y
 yum install -y wget
 #以上命令如果报错，可能是因为当前系统已安装。无需理会，继续下一步。
 ````
-- 安装加密模块，让服务器支持更多的加密模式，如果安装过了，可以不用安装
+- 安装加密模块，让服务器支持更多的加密模式（不是必须要安装的），如果安装过了，可以不用安装
 ````
 wget https://github.com/jedisct1/libsodium/releases/download/1.0.16/libsodium-1.0.16.tar.gz
 tar xf libsodium-1.0.16.tar.gz && cd libsodium-1.0.16

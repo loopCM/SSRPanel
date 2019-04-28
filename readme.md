@@ -274,9 +274,11 @@ vi user-config.json
 其它保持不变，也可根据情况做修改，不知道什么意思，不要乱改动。
 
 ````
-user-config设置信息需要跟 SSRPanel 添加的相应节点设置保持一致。
-method = 加密方式；protocol = 加密协议；obfs = 混淆协议。
-password = 连接密码，保持默认m密码即可，这个不需要修改。
+user-config设置信息需要跟 SSRPanel 添加的相应节点设置保持一致。  
+method = 加密方式；  
+protocol = 加密协议；  
+obfs = 混淆协议。  
+password = 连接密码，保持默认m密码即可，这个不需要修改。  
 在不了解的情况下请勿改动，保持默认即可
 
 一切准备就绪，你就可以使用客户端测试节点了。

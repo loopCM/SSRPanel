@@ -223,7 +223,48 @@ tar xf libsodium-1.0.16.tar.gz && cd libsodium-1.0.16
 echo /usr/local/lib > /etc/ld.so.conf.d/usr_local_lib.conf
 ldconfig
 ````
+- 安装SSR
+````
+cd ~
+git clone https://github.com/LEE-Blog/shadowsocksr.git
+cd shadowsocksr
+sh setup_cymysql2.sh
+sh initcfg.sh
+````
+- 修改SSR后端配置（数据库配置和SSR客户端连接信息）
+ 编辑数据库信息usermysql.json,修改成自己的真实数据库连接信息
+ ````
+{
+"host": "xxx.abc.com",
+"port": 3306,
+"user": "ssrpanel",
+"password": "123456",
+"db": "ssrpanel",
+"node_id": 1,
+"transfer_mul": 2.0,
+"ssl_enable": 0,
+"ssl_ca": "",
+"ssl_cert": "",
+"ssl_key": ""
+}
+ ````
+修改SSR前端面板连接信息,编辑文件user-config.json
+````
+vi user-config.json
+"password": "m",
+"method": "aes-256-cfb",
+"protocol": "auth_aes128_md5",
+"protocol_param": "",
+"obfs": "tls1.2_ticket_auth",
+"obfs_param": "www.amazon.com,kdp.amazon.com, php.net",
+"speed_limit_per_con": 0,
+"speed_limit_per_user": 0,
 
+````
+user-config设置信息需要跟 SSRPanel 添加的相应节点设置保持一致。
+method = 加密方式；protocol = 加密协议；obfs = 混淆协议。
+password = 连接密码，保持默认m密码即可，这个不需要修改。
+在不了解的情况下请勿改动，保持默认即可
 
 ## 单端口多用户
 ````

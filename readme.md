@@ -290,7 +290,7 @@ python server.py
 如果正常的话，改为后台运行：
 cd /root/shadowsocksr
 ./run.sh
-
+```
 
 ## 单端口多用户
 ````

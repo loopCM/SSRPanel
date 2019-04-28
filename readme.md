@@ -234,7 +234,7 @@ cd shadowsocksr
 sh setup_cymysql2.sh
 sh initcfg.sh
 ````
-#####修改SSR后端配置（数据库配置和SSRpanel前端面板连接信息）
+##### 修改SSR后端配置（数据库配置和SSRpanel前端面板连接信息）
  - 编辑数据库信息usermysql.json,修改成自己的真实数据库连接信息
  ````
 {

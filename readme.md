@@ -190,7 +190,7 @@ chown www:www ssserver.log
 将 .env 文件里的 REDIRECT_HTTPS 值改为true，则全站强制走https
 ```
 
-## SSR(R)部署
+## SSR(R)后端部署，如果不成功可以换其它教程
 ###### 手动部署
 
 - 无上报IP版本：

@@ -110,8 +110,7 @@ git clone https://github.com/ssrpanel/ssrpanel.git  这个要换成自己的了
 #### 安装面板
 ````
 cd ssrpanel/
-cp .env.example .env
-（然后 vi .env 修改数据库的连接信息）
+cp .env.example .env （然后 vi .env 修改数据库的连接信息）
 php composer.phar install
 php artisan key:generate
 chown -R www:www storage/

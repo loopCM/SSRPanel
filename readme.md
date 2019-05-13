@@ -8,7 +8,7 @@ Support but not limited to: Shadowsocks,ShadowsocksR,ShadowsocksRR,V2Ray
 
 
 ## Requirements
-- PHP 7.1.3 +
+- PHP 7.1.3 +  这个必须是7.1.x ，注意是7.1版本，不能高了，高了就有问题，必须是7.1.x
 - Mysql 5.5 +
 - Memory 1G +
 - Disk 10G +

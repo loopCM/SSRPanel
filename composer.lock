@@ -21,7 +21,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -101,7 +101,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -156,7 +156,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -205,7 +205,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -267,7 +267,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -353,7 +353,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -421,7 +421,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -487,7 +487,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -537,7 +537,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -576,7 +576,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -649,7 +649,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -709,7 +709,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -769,7 +769,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -832,7 +832,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -884,7 +884,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -937,7 +937,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -997,7 +997,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -1068,7 +1068,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -1125,7 +1125,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -1198,7 +1198,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -1274,7 +1274,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -1326,7 +1326,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -1384,7 +1384,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -1432,7 +1432,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -1484,7 +1484,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -1539,7 +1539,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -1614,7 +1614,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -1686,7 +1686,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -1831,7 +1831,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -1900,7 +1900,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -1990,7 +1990,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -2091,7 +2091,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -2167,7 +2167,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -2240,7 +2240,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -2321,7 +2321,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -2378,7 +2378,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -2433,7 +2433,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -2491,7 +2491,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -2575,7 +2575,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -2634,7 +2634,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -2691,7 +2691,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -2746,7 +2746,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -2797,7 +2797,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -2848,7 +2848,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -2948,7 +2948,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -3004,7 +3004,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -3059,7 +3059,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -3115,7 +3115,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -3168,7 +3168,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -3222,7 +3222,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -3302,7 +3302,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -3348,7 +3348,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -3436,7 +3436,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -3501,7 +3501,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -3561,7 +3561,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -3616,7 +3616,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -3666,7 +3666,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -3737,7 +3737,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -3805,7 +3805,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -3883,7 +3883,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -3957,7 +3957,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -4016,7 +4016,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -4078,7 +4078,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -4148,7 +4148,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -4204,7 +4204,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -4259,7 +4259,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -4319,7 +4319,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -4414,7 +4414,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -4478,7 +4478,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -4543,7 +4543,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -4611,7 +4611,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -4676,7 +4676,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -4737,7 +4737,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -4792,7 +4792,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -4874,7 +4874,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -4953,7 +4953,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -5035,7 +5035,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -5088,7 +5088,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -5145,7 +5145,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -5196,7 +5196,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -5258,7 +5258,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -5325,7 +5325,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -5381,7 +5381,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -5435,7 +5435,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -5506,7 +5506,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -5560,7 +5560,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -5630,7 +5630,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -5691,7 +5691,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -5744,7 +5744,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -5804,7 +5804,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -5861,7 +5861,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -5914,7 +5914,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -5983,7 +5983,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -6052,7 +6052,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -6108,7 +6108,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -6155,7 +6155,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -6210,7 +6210,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -6265,7 +6265,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -6355,7 +6355,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -6406,7 +6406,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -6476,7 +6476,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -6538,7 +6538,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -6597,7 +6597,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -6670,7 +6670,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -6727,7 +6727,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -6780,7 +6780,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -6831,7 +6831,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -6890,7 +6890,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -6938,7 +6938,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -6987,7 +6987,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]
@@ -7033,7 +7033,7 @@
                 "shasum": "",
                 "mirrors": [
                     {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "url": "https://https://pkg.phpcomposer.com/%package%/%reference%.%type%",
                         "preferred": true
                     }
                 ]

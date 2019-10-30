@@ -73,7 +73,7 @@
 	"repositories": {
         "packagist": {
             "type": "composer",
-            "url": "https://mirrors.aliyun.com/composer/dists"
+            "url": "https://https://pkg.phpcomposer.com"
         }
     },
     "minimum-stability": "dev",
